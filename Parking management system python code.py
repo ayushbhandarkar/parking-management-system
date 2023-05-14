@@ -1,5 +1,11 @@
-# parking-management-system
-#Here is the project for the parking management system in python .
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon May 15 00:00:43 2023
+
+@author: ayushbhandarkar
+"""
+
 #Import Time
 import time
 
